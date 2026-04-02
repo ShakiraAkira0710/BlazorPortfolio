@@ -24,6 +24,7 @@ C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\scopedcss\Componen
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\scopedcss\bundle\Portfolio.styles.css
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\scopedcss\projectbundle\Portfolio.bundle.scp.css
+C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\62k8rbmgzy-{0}-icl47pmkn2-icl47pmkn2.gz
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\fkmehnfzni-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\6si91vzy89-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\rv86f6bpew-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -69,6 +70,10 @@ C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\5oapw1i
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\lwrwrz55tk-{0}-63fj8s7r0e-63fj8s7r0e.gz
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\qbjgz7wzs3-{0}-0j3bgjxly4-0j3bgjxly4.gz
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\oe4vlwajxd-{0}-abdmv1u4y3-abdmv1u4y3.gz
+C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\nm7d4p8mtt-{0}-b9228eflpl-b9228eflpl.gz
+C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\9fdkymrxq4-{0}-2tj1sjhksk-2tj1sjhksk.gz
+C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\dq6x3a8ph8-{0}-gsol22zq2k-gsol22zq2k.gz
+C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\rbv2ka4glg-{0}-gsol22zq2k-gsol22zq2k.gz
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\staticwebassets.development.json
@@ -79,8 +84,3 @@ C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\refint\Portfolio.d
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\Portfolio.pdb
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\Portfolio.genruntimeconfig.cache
 C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\ref\Portfolio.dll
-C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\dq6x3a8ph8-{0}-gsol22zq2k-gsol22zq2k.gz
-C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\rbv2ka4glg-{0}-gsol22zq2k-gsol22zq2k.gz
-C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\62k8rbmgzy-{0}-icl47pmkn2-icl47pmkn2.gz
-C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\nm7d4p8mtt-{0}-b9228eflpl-b9228eflpl.gz
-C:\Users\JK\Documents\MyPortfolio\Portfolio\obj\Debug\net10.0\compressed\9fdkymrxq4-{0}-2tj1sjhksk-2tj1sjhksk.gz
